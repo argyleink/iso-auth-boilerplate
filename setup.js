@@ -1,4 +1,4 @@
-'use scrict';
+'use strict';
 
 // Babel entry point
 require('babel/register')({
